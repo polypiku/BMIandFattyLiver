@@ -20,7 +20,7 @@ A web app that estimates a person's risk of non-alcoholic fatty liver disease (N
 ## Model
 - **Algorithm:** Random Forest classifier (25 trees, max depth 5), exported to JSON and evaluated in JavaScript
 - **Features:** 18 inputs; the most important are BMI (47%), triglycerides (12%), ALT (10%) and GGT (8%)
-- **Data:** trained on a synthetic NAFLD dataset of 4,000 records
+- **Data:** trained on a NAFLD dataset of 10,000 records
 - **Accuracy:** 65% on a holdout set
 
 > For education only. This is not a medical diagnosis.
