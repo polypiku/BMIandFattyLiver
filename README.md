@@ -4,7 +4,7 @@ A web app that estimates a person's risk of non-alcoholic fatty liver disease (N
 
 เว็บแอปประเมิน BMI และความเสี่ยงไขมันพอกตับ จากข้อมูลสุขภาพและผลตรวจเลือด
 
-**Live demo:** https://polypiku09-crypto.github.io/BMIandFattyLiver/
+**Live demo:** https://polypiku.github.io/BMIandFattyLiver/
 
 ![BMI & Fatty Liver](screenshots/result.png)
 
