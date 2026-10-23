@@ -6,7 +6,7 @@ A web app that estimates a person's risk of non-alcoholic fatty liver disease (N
 
 **Live demo:** https://polypiku.github.io/BMIandFattyLiver/
 
-![BMI & Fatty Liver](screenshots/result.png)
+<img src="screenshots/assess.png" width="320" alt="Assessment screen" />
 
 ## Features
 - Sign up and log in, with a consent step before collecting health data
@@ -24,6 +24,12 @@ A web app that estimates a person's risk of non-alcoholic fatty liver disease (N
 - **Accuracy:** 65% on a holdout set
 
 > For education only. This is not a medical diagnosis.
+
+## Screenshots
+
+| Onboarding | Login | Assessment |
+|------------|-------|------------|
+| <img src="screenshots/onboarding.png" width="240" /> | <img src="screenshots/login.png" width="240" /> | <img src="screenshots/assess.png" width="240" /> |
 
 ## Tech Stack
 
